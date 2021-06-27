@@ -1,0 +1,29 @@
+{
+  "name": "leviscar-lc",
+  "version": "1.0.0",
+  "description": "leviscar-lc",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap",
+    "test:watch": "tap --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leviscar/leetcode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "leviscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leviscar/leetcode/issues"
+  },
+  "homepage": "https://github.com/leviscar/leetcode#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.14.7",
+    "@babel/eslint-plugin": "^7.14.5",
+    "@ecomfe/eslint-config": "^7.1.0",
+    "eslint": "^7.29.0"
+  }
+}
